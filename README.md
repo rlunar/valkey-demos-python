@@ -36,4 +36,4 @@ Navigate to the specific demo directory and follow the instructions there.
 
 ## License
 
-See individual demo directories for licensing information.
+MIT License - see [LICENSE](LICENSE) file for details.
